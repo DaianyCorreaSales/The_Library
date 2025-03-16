@@ -1,0 +1,29 @@
+[
+  { 
+    "query": "INSERT INTO genres (name) VALUES ('Fiction');"
+  },
+  { 
+    "query": "INSERT INTO genres (name) VALUES ('Dystopian');"
+  },
+  { 
+    "query": "INSERT INTO genres (name) VALUES ('Romance');"
+  },
+  { 
+    "query": "INSERT INTO genres (name) VALUES ('Magical Realism');"
+  },
+  { 
+    "query": "INSERT INTO genres (name) VALUES ('Fantasy');"
+  },
+  { 
+    "query": "INSERT INTO genres (name) VALUES ('Classic');"
+  },
+  { 
+    "query": "INSERT INTO genres (name) VALUES ('Satire');"
+  },
+  { 
+    "query": "INSERT INTO genres (name) VALUES ('Children’s');"
+  },
+  { 
+    "query": "INSERT INTO genres (name) VALUES ('Coming-of-Age');"
+  }
+]

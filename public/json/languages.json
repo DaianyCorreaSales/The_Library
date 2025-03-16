@@ -1,0 +1,29 @@
+[
+  { 
+    "query": "INSERT INTO languages (name) VALUES ('English');"
+  },
+  { 
+    "query": "INSERT INTO languages (name) VALUES ('French');"
+  },
+  { 
+    "query": "INSERT INTO languages (name) VALUES ('Spanish');"
+  },
+  { 
+    "query": "INSERT INTO languages (name) VALUES ('German');"
+  },
+  { 
+    "query": "INSERT INTO languages (name) VALUES ('Italian');"
+  },
+  { 
+    "query": "INSERT INTO languages (name) VALUES ('Russian');"
+  },
+  { 
+    "query": "INSERT INTO languages (name) VALUES ('Portuguese');"
+  },
+  { 
+    "query": "INSERT INTO languages (name) VALUES ('Chinese');"
+  },
+  { 
+    "query": "INSERT INTO languages (name) VALUES ('Japanese');"
+  }
+]

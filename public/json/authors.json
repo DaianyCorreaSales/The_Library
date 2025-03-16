@@ -1,0 +1,35 @@
+[
+  { 
+    "query": "INSERT INTO authors (name) VALUES ('Harper Lee');"
+  },
+  { 
+    "query": "INSERT INTO authors (name) VALUES ('George Orwell');"
+  },
+  { 
+    "query": "INSERT INTO authors (name) VALUES ('Jane Austen');"
+  },
+  { 
+    "query": "INSERT INTO authors (name) VALUES ('F. Scott Fitzgerald');"
+  },
+  { 
+    "query": "INSERT INTO authors (name) VALUES ('Gabriel Garcia Marquez');"
+  },
+  { 
+    "query": "INSERT INTO authors (name) VALUES ('J.D. Salinger');"
+  },
+  { 
+    "query": "INSERT INTO authors (name) VALUES ('Paulo Coelho');"
+  },
+  { 
+    "query": "INSERT INTO authors (name) VALUES ('J.K. Rowling');"
+  },
+  { 
+    "query": "INSERT INTO authors (name) VALUES ('J.R.R. Tolkien');"
+  },
+  { 
+    "query": "INSERT INTO authors (name) VALUES ('Miguel de Cervantes');"
+  },
+  { 
+    "query": "INSERT INTO authors (name) VALUES ('Antoine de Saint-Exupéry');"
+  }
+]

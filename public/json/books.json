@@ -1,0 +1,44 @@
+[
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('To Kill a Mockingbird', 'A classic novel about injustice in a small Southern town.', 'HarperCollins', 1960, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('1984', 'A dystopian novel depicting a totalitarian society.', 'Signet Classics', 1949, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('Pride and Prejudice', 'A classic novel exploring love, marriage, and social class.', 'Penguin Classics', 1813, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('The Great Gatsby', 'A story of wealth, love, and the American Dream in the Jazz Age.', 'Scribner', 1921, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('One Hundred Years of Solitude', 'A landmark novel blending reality and fantasy in the fictional town of Macondo.', 'Harper Perennial', 1967, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('The Catcher in the Rye', 'A novel following the rebellious journey of a teenager in New York City.', 'Back Bay books', 1951, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('The Alchemist', 'A philosophical novel about a young shepherds journey to find his personal legend.', 'HarperOne', 1988, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('Harry Potter and the Philosophers Stone', 'The first book in the popular Harry Potter series about a young wizard.', 'Bloomsbury Publishing', 1997, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('The Lord of the Rings', 'An epic high fantasy trilogy set in the world of Middle earth.', 'Houghton Mifflin Harcourt', 1954, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('Don Quixote', 'A comedic novel about a deluded knight and his adventures.', 'Harper Perennial', 1605, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('Fantastic Beasts and Where to Find Them', 'A companion book to the Harry Potter series, cataloguing magical creatures.', 'Bloomsbury Publishing', 2001, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('Quidditch Through the Ages', 'A companion book to the Harry Potter series, detailing the history of Quidditch.', 'Bloomsbury Publishing', 2001, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('The Little Prince', 'A poetic novella exploring the nature of friendship and love.', 'Houghton Mifflin Harcourt', 1943, false);"
+  },
+  { 
+      "query": "INSERT INTO books (title, description, publisher, year, borrowed) VALUES ('The Tales of Beedle the Bard', 'A collection of wizarding fairy tales mentioned in the Harry Potter series.', 'Bloomsbury Publishing', 2008, false);"
+  }
+]

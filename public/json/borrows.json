@@ -1,0 +1,8 @@
+[
+  {
+    "query": "INSERT INTO borrows (borrowDate, returnDate) VALUES ('2025-01-01', '2025-01-01');"
+  },
+  {
+    "query": "INSERT INTO borrows (borrowDate, returnDate) VALUES ('2025-01-01', '2025-01-02');"
+  }
+]
